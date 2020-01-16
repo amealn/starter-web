@@ -13,3 +13,6 @@ Sample website with plenty of files for demos.
 Deployment can be any web server or even local file system.
 
 ## How To Contribute
+
+###Copyright
+2020 Git.Training
