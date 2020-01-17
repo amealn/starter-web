@@ -1,6 +1,7 @@
 # Starter Web Project
 
 Add a line for rebasing example, then more changes from myfeature branch too.
+Update after a stash
 
 ## Introduction
 
